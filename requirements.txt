@@ -1,0 +1,4 @@
+fastapi
+requests
+scikit-learn
+python-dotenv
